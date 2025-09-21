@@ -17,7 +17,6 @@ Users can register, log in, and perform CRUD operations on books (Create, Read, 
   - Delete book
 - 🛡️ Protected routes for managing books (requires login)
 - 🌐 CORS enabled
-- 🚀 Ready for deployment on Render/Heroku/etc.
 
 ---
 
